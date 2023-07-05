@@ -1,4 +1,4 @@
-hello zhouhongchen 3 hot 1
+hello zhouhongchen 3 hot 1 hot-fix merge 1
 hello zhouhongchen 3 hot 1
 hello zhouhongchen 3 hot 1
 hello zhouhongchen 3 hot 1
